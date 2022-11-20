@@ -1,0 +1,1 @@
+settings = {"id":"Szpm-aEoJUQh44UW4V5HKg", "secret":"WEYI54w8Ihg7eVKl6nQ6wuDtyBIVMQ", "token":"MTAyMzQ5ODUyNTk2NDc4MzYzNg.GQZXB4.BKQQefEtjgv2u4ElZQo6o1cIAYvCwa1sis2wdY"}
